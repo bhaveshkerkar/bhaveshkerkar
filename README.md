@@ -6,70 +6,27 @@
 I'm <b>Bhavesh</b>, a software developer from Maharashtra, India.
 </p>
 
----
-
-## 👨‍💻 About Me
-
-I'm Bhavesh, a software developer focused on building efficient and user-friendly applications.
-
-I have a strong foundation in programming, Data Structures & Algorithms, and Full Stack Web Development.
-
-I enjoy building real-world applications and continuously improving my development and problem-solving skills.
-
----
-
-## 🚀 Skills
-
-- Java
-- Python
-- Data Structures & Algorithms (DSA)
-- MERN Stack Development
-  - MongoDB
-  - Express.js
-  - React.js
-  - Node.js
-- MySQL
-- REST APIs
-- Git & GitHub
-
----
-
-## 📌 Projects
-
-### 🛒 Store Rating Platform
-A full-stack MERN application with authentication, role-based access, ratings system, and dashboards.
----
-
-## 🎯 Current Focus
-
-- Software Development
-- Full Stack Web Development
-- Improving DSA & Problem Solving
-- Placement Preparation
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/bhavesh-kerkar-52587928a/" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p>
+I focus on building efficient and user-friendly applications using modern technologies.
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhaveshkerkar&show_icons=true&theme=tokyonight" />
+<p>
+Currently, I'm improving my skills in Full Stack Web Development, DSA, and Software Development.
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhaveshkerkar&theme=tokyonight" />
+<p>
+I enjoy building real-world projects and solving problems through code.
 </p>
 
----
+<br>
+
+<p><b>Let's connect!</b></p>
+
+<p>
+  <a href="https://www.linkedin.com/in/bhavesh-kerkar-52587928a/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ## ⚡ Fun Fact
 
