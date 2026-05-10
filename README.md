@@ -66,7 +66,7 @@ A full-stack MERN application with authentication, role-based access, ratings sy
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshkerkar&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=bhaveshkerkar&theme=tokyonight" />
 </p>
 
 ---
