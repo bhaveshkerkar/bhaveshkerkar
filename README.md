@@ -28,8 +28,6 @@ I enjoy building real-world projects and solving problems through code.
   </a>
 </p>
 
-## ⚡ Fun Fact
-
 I enjoy building projects, solving coding problems, learning new technologies, and improving every day as a developer.
 
 <!--
