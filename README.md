@@ -11,7 +11,7 @@ I focus on building efficient and user-friendly applications using modern techno
 </p>
 
 <p>
-Currently, I'm improving my skills in Full Stack Web Development, DSA, and Software Development.
+Currently, I'm improving my skills in Full Stack Web Development, DSA and Software Development.
 </p>
 
 <p>
@@ -28,7 +28,7 @@ I enjoy building real-world projects and solving problems through code.
   </a>
 </p>
 
-I enjoy building projects, solving coding problems, learning new technologies, and improving every day as a developer.
+I enjoy building projects, solving coding problems, learning new technologies and improving every day as a developer.
 
 <!--
 **bhaveshkerkar/bhaveshkerkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
