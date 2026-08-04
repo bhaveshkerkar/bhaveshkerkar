@@ -181,12 +181,12 @@ I enjoy building scalable web applications, solving DSA problems, learning backe
 |---|---|
 | GitHub | [github.com/bhaveshkerkar](https://github.com/bhaveshkerkar) |
 | LinkedIn | [linkedin.com/in/bhavesh-kerkar-52587928a](https://www.linkedin.com/in/bhavesh-kerkar-52587928a/) |
-| LeetCode | Add your LeetCode link |
-| Portfolio Website | Add your portfolio link |
-| HackerRank | Add your HackerRank link |
-| CodeChef | Add your CodeChef link |
-| Codeforces | Add your Codeforces link |
-| GeeksforGeeks | Add your GeeksforGeeks link |
+| LeetCode | https://leetcode.com/u/1zRIMMdSP3/ |
+| Portfolio Website | https://bhaveshkerkar.vercel.app/ |
+| HackerRank | - |
+| CodeChef | - |
+| Codeforces | - |
+| GeeksforGeeks | - |
 
 ---
 
