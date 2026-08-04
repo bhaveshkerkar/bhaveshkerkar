@@ -135,15 +135,18 @@ I enjoy building scalable web applications, solving DSA problems, learning backe
 
 </div>
 
-| Metric | Status |
-|---|---|
-| Total Problems Solved | Add your count |
-| Easy | Add your count |
-| Medium | Add your count |
-| Hard | Add your count |
-| Contest Rating | Add your rating |
-| Global Ranking | Add your rank |
-| Badges | Add your badges |
+| Metric | Current Stat |
+|---|---:|
+| Total Problems Solved | **95 / 4013** |
+| Easy | **48 / 958** |
+| Medium | **35 / 2095** |
+| Hard | **12 / 960** |
+| Global Rank | **1,692,989** |
+| Badges | **2** |
+| Most Recent Badge | **100 Days Badge 2026** |
+| Submissions in Past Year | **248** |
+| Total Active Days | **137** |
+| Max Streak | **90** |
 
 ---
 
