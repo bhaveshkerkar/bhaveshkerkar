@@ -113,10 +113,10 @@ Conducted security assessments using OWASP Top 10 methodology, performed penetra
 
 | Project | Description | Tech Stack | Repository |
 |---|---|---|---|
-| **Krishna Restaurant MERN Platform** | Full-stack restaurant ordering platform with JWT auth, role-based access control, real-time cart state & order tracking | React.js, Node.js, Express.js, MongoDB, Tailwind CSS | Add Link |
+| **Krishna Restaurant MERN Platform** | Full-stack restaurant ordering platform with JWT auth, role-based access control, real-time cart state & order tracking | React.js, Node.js, Express.js, MongoDB, Tailwind CSS | - |
 | **PhishGuard — AI Phishing Email Detector** | Ensemble ML pipeline that detects phishing emails, served through a FastAPI backend | Python, FastAPI, scikit-learn | [GitHub](https://github.com/bhaveshkerkar/Phishing-Email-Detector) |
-| **Real-Time Sign Language Detection** | Real-time ASL recognition using MediaPipe hand-landmarks + a custom TensorFlow classifier — 95%+ accuracy across 26 alphabets | Python, TensorFlow, MediaPipe, OpenCV | Add Link |
-| **DecodeX 2026 — Load Forecasting** | Cost-sensitive electricity load forecasting model under Maharashtra's ABT regulatory framework; cut total financial penalty by 60% | Python, XGBoost | Add Link |
+| **Real-Time Sign Language Detection** | Real-time ASL recognition using MediaPipe hand-landmarks + a custom TensorFlow classifier — 95%+ accuracy across 26 alphabets | Python, TensorFlow, MediaPipe, OpenCV | - |
+| **DecodeX 2026 — Load Forecasting** | Cost-sensitive electricity load forecasting model under Maharashtra's ABT regulatory framework; cut total financial penalty by 60% | Python, XGBoost | - |
 
 ---
 
